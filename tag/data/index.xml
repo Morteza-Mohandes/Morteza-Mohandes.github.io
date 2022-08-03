@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Morteza Mohandes Mojarrad</title>
+    <link>https://m-mohandes-m.com/tag/data/</link>
+      <atom:link href="https://m-mohandes-m.com/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://m-mohandes-m.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Data</title>
+      <link>https://m-mohandes-m.com/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>fIRST PROJECT</title>
+      <link>https://m-mohandes-m.com/project/first/first/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-mohandes-m.com/project/first/first/</guid>
+      <description>&lt;p&gt;fIRST PROJECT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second PROJECT</title>
+      <link>https://m-mohandes-m.com/project/copyoffirst/second/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://m-mohandes-m.com/project/copyoffirst/second/</guid>
+      <description>&lt;p&gt;fIRST PROJECT&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
